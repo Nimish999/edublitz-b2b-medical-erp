@@ -129,6 +129,8 @@ Select:
 
 ```text
 AWSLoadBalancerControllerIAMPolicy
+ElasticLoadBalancingFullAccess
+AmazonEKSLoadBalancingPolicy
 ```
 
 ### Role Name
